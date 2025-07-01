@@ -14,6 +14,10 @@
 		{
 			"Name": "StructUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenLogicV2",
+			"Enabled": true
 		}
 	]
 }
